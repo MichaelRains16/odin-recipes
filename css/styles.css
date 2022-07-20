@@ -3,6 +3,21 @@
     background-color: orange;
 }
 
-.header-two {
+.subheader {
     color: aqua;
 }
+
+.subheader-two {
+    color: orange;
+}
+
+.subheader-three {
+    color: hotpink;
+}
+
+img {
+    height: auto;
+    width: 250px;
+}
+
+
